@@ -1,4 +1,7 @@
 # 高専共通寮通知API(仮)  
+
+[![hackmd-github-sync-badge](https://hackmd.io/FMOkh4kFSUGuETi4XaJOtA/badge)](https://hackmd.io/FMOkh4kFSUGuETi4XaJOtA)
+
  
 **荒らしたら…分かっていますね？**  
  
